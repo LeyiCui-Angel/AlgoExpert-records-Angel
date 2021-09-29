@@ -7,7 +7,6 @@ Welcome!
 * E stands for easy (3/25); M stands for medium (1/55); H stands for hard (1/46), VH stands for very hard (0/34)
 
 ### 模板
----
 **Date**:  
 **Time used**:  
 **Time complexity**:  
@@ -15,5 +14,29 @@ Welcome!
 >
 
 ==**Important notes**==:  
+
+---
+
+## 指路
+### Data Structure Crash Course notes  
+
+---
+
+### 一轮刷题
+* Arrays 0/24
+* Binary Search Trees 0/10
+* Binary Trees 0/13
+* Dynamic Programming 0/19
+* Famous Algorithms 0/5
+* Graphs 0/13
+* Greedy Algorithms 0/5
+* Heaps 0/5
+* Linked Lists 0/13
+* Recursion 0/13
+* Searching 0/7
+* [Sorting 5/9]()
+* Stacks 0/7
+* Strings 0/15
+* Tries 0/2
 
 ---
