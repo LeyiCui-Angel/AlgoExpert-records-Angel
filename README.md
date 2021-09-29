@@ -34,7 +34,7 @@ Welcome!
 * Linked Lists 0/13
 * Recursion 0/13
 * Searching 0/7
-* [Sorting 5/9](https://fordtin.github.io/https://github.com/LeyiCui-Angel/AlgoExpert-records-Angel/blob/main/%E4%B8%80%E8%BD%AE%E5%88%B7%E9%A2%98/Sorting-1.html)
+* [Sorting 5/9](http://htmlpreview.github.io/?https://github.com/LeyiCui-Angel/AlgoExpert-records-Angel/blob/main/%E4%B8%80%E8%BD%AE%E5%88%B7%E9%A2%98/Sorting-1.html)
 * Stacks 0/7
 * Strings 0/15
 * Tries 0/2
