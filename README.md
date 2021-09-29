@@ -1,6 +1,7 @@
 # AlgoExpert-records-Angel
 Here are Angel's personal AlgoExpert records, which will include Angel's 刷题笔记, code, and crash course notes.  
-Welcome!
+Welcome!  
+If you want to use my code, please cite this website.
 
 ## 帮助
 * If a problem's name is *italic*, I need to review the problem later.
