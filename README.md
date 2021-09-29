@@ -34,7 +34,7 @@ Welcome!
 * Linked Lists 0/13
 * Recursion 0/13
 * Searching 0/7
-* [Sorting 5/9]()
+* [Sorting 5/9](https://fordtin.github.io/AlgoExpert-records-Angel/一轮刷题/Sorting-1)
 * Stacks 0/7
 * Strings 0/15
 * Tries 0/2
