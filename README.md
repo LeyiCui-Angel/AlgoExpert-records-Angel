@@ -6,6 +6,7 @@ If you want to use my code, please cite this website.
 ## 帮助
 * If a problem's name is *italic*, I need to review the problem later.
 * E stands for easy (3/25); M stands for medium (1/55); H stands for hard (1/46), VH stands for very hard (0/34)
+* To access an HTML file in web, use http://htmlpreview.github.com/? + the address of the HTML file.
 
 ### 模板
 **Date**:  
