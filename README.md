@@ -36,7 +36,7 @@ If you want to use my code, please cite this website.
 * Linked Lists 0/13
 * Recursion 0/13
 * Searching 0/7
-* [Sorting 6/9](http://htmlpreview.github.io/?https://github.com/LeyiCui-Angel/AlgoExpert-records-Angel/blob/main/%E4%B8%80%E8%BD%AE%E5%88%B7%E9%A2%98/Sorting-2.html)
+* [Sorting 6/9](https://github.com/LeyiCui-Angel/AlgoExpert-records-Angel/blob/main/%E4%B8%80%E8%BD%AE%E5%88%B7%E9%A2%98/Sorting-2.html)
 * Stacks 0/7
 * Strings 0/15
 * Tries 0/2
